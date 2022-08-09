@@ -2,3 +2,15 @@ p {
     font-size: 40px;
     color: red;
 }
+
+li {
+    color: green;
+}
+
+#list_id {
+    color: blue;
+}
+
+.list_class {
+    color: red;
+}
